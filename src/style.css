@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header .logo {
+    max-width: 40px;
+    margin-bottom: 10px;
+}
+
+#quem-somos {
+    background-color: #f8f9fa;
+}
+
+#quem-somos h2, #contato h2 {
+    color: #0056b3;
+}
+
+#quem-somos p, #contato p {
+    color: #333;
+}
+
+footer {
+    background-color: #0056b3;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
